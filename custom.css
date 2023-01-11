@@ -1,3 +1,20 @@
 .list-group-item {
   margin-left: -1.2em;
 }
+.border {
+  padding: 3em;
+}
+body { 
+  background-image: url("img/background.jpg");
+}
+
+div.container {
+  background-color: rgba(240,248,255,0.6);
+
+}
+/*
+div.row {
+  background: rgba(240,248,255, 0.6) !important;
+}
+*/
+/*color  rgb(240, 248, 255, 0.6)*/
